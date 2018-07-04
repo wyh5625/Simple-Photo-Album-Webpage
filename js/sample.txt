@@ -1,4 +1,0 @@
-    Test     of WordCount.js       Program
-
-The      number     
-of  words     is     10
